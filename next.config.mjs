@@ -14,8 +14,16 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'img.clerk.com',
       },
+      {
+        protocol: 'https',
+        hostname: 'm.media-amazon.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'th.bing.com',
+      },
     ],
   },
-};
+}
 
-export default nextConfig;
+export default nextConfig
